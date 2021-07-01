@@ -2,7 +2,7 @@
 
 "Deep Learning with Python" by François Chollet. 中文笔记 in Jupyter notebooks.
 
-[book preface](imgs/logo.jpg)
+![book preface](imgs/logo.jpg)
 
 本仓库是[François Chollet](https://github.com/fchollet)为深度学习工程师写就的著作[《Deep Learning with Python》](https://www.manning.com/books/deep-learning-with-python)的中文笔记。
 
