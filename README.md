@@ -12,15 +12,15 @@
 
 ## 目录
 
-- [第一章：什么是深度学习？](Chapter1_What_is_deep_learning.ipynb)
-- [第二章：神经网络的数学知识](Chapter2_Mathematical_blocks_of_neural_networks.ipynb)
-- [第三章：进入神经网络](Chapter3_Getting_started_with_neural_networks.ipynb)
-- [第四章：机器学习基础](Chapter4_Fundamentals_of_machine_learning.ipynb)
-- [第五章：计算机视觉的深度学习](Chapter5_Deep_learning_for_computer_vision.ipynb)
-- [第六章：文本和序列的深度学习](Chapter6_Deep_learning_for_text_and_sequences.ipynb)
-- [第七章：高级深度学习最佳实践](Chapter7_Advanced_deep_learning_best_pratices.ipynb)
-- [第八章：生成模型深度学习](Chapter8_Generative_deep_learning.ipynb)
-- [第九章：总结](Chapter9_Conclusions.ipynb)
+- [第一章：什么是深度学习？](Chapter1_What_is_deep_learning.ipynb) [在Google Colab![Colab](https://colab.research.google.com/assets/colab-badge.svg)上阅读第一章](https://colab.research.google.com/github/wangyingsm/deep-learning-with-python-cn/blob/master/Chapter1_What_is_deep_learning.ipynb)
+- [第二章：神经网络的数学知识](Chapter2_Mathematical_blocks_of_neural_networks.ipynb) [在Google Colab![Colab](https://colab.research.google.com/assets/colab-badge.svg)上阅读第二章](https://colab.research.google.com/github/wangyingsm/deep-learning-with-python-cn/blob/master/Chapter2_Mathematical_blocks_of_neural_networks.ipynb)
+- [第三章：进入神经网络](Chapter3_Getting_started_with_neural_networks.ipynb) [在Google Colab![Colab](https://colab.research.google.com/assets/colab-badge.svg)上阅读第三章](https://colab.research.google.com/github/wangyingsm/deep-learning-with-python-cn/blob/master/Chapter3_Getting_started_with_neural_networks.ipynb)
+- [第四章：机器学习基础](Chapter4_Fundamentals_of_machine_learning.ipynb) [在Google Colab![Colab](https://colab.research.google.com/assets/colab-badge.svg)上阅读第四章](https://colab.research.google.com/github/wangyingsm/deep-learning-with-python-cn/blob/master/Chapter4_Fundamentals_of_machine_learning.ipynb)
+- [第五章：计算机视觉的深度学习](Chapter5_Deep_learning_for_computer_vision.ipynb) [在Google Colab![Colab](https://colab.research.google.com/assets/colab-badge.svg)上阅读第五章](https://colab.research.google.com/github/wangyingsm/deep-learning-with-python-cn/blob/master/Chapter5_Deep_learning_for_computer_vision.ipynb)
+- [第六章：文本和序列的深度学习](Chapter6_Deep_learning_for_text_and_sequences.ipynb) [在Google Colab![Colab](https://colab.research.google.com/assets/colab-badge.svg)上阅读第六章](https://colab.research.google.com/github/wangyingsm/deep-learning-with-python-cn/blob/master/Chapter6_Deep_learning_for_text_and_sequences.ipynb)
+- [第七章：高级深度学习最佳实践](Chapter7_Advanced_deep_learning_best_pratices.ipynb) [在Google Colab![Colab](https://colab.research.google.com/assets/colab-badge.svg)上阅读第七章](https://colab.research.google.com/github/wangyingsm/deep-learning-with-python-cn/blob/master/Chapter7_Advanced_deep_learning_best_pratices.ipynb)
+- [第八章：生成模型深度学习](Chapter8_Generative_deep_learning.ipynb) [在Google Colab![Colab](https://colab.research.google.com/assets/colab-badge.svg)上阅读第八章](https://colab.research.google.com/github/wangyingsm/deep-learning-with-python-cn/blob/master/Chapter8_Generative_deep_learning.ipynb)
+- [第九章：总结](Chapter9_Conclusions.ipynb) [在Google Colab![Colab](https://colab.research.google.com/assets/colab-badge.svg)上阅读第九章](https://colab.research.google.com/github/wangyingsm/deep-learning-with-python-cn/blob/master/Chapter9_Conclusions.ipynb)
 
 ## 注
 
